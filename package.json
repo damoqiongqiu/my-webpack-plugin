@@ -1,0 +1,8 @@
+{
+    "name": "my-webpack-plugin",
+    "version": "1.0.0",
+    "description": "尝试编写我自己的webpack插件",
+    "main": "index.js",
+    "author": "大漠穷秋",
+    "license": "MIT"
+}
